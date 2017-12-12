@@ -5,9 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<%
-    FBConnection fbConnection = new FBConnection();
-    %>
+
 <!DOCTYPE html>
 <html>
     <head>
